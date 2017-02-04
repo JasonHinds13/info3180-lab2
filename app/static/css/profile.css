@@ -8,11 +8,15 @@ img{
 }
 
 .block{
-    border-radius: 25px;
-    background-color: gray;
+    padding: 5px;
+    border-radius: 15px;
+    background-color: lightgray;
 }
 
 #myinfo{
-    border-radius: 25px;
-    border: 2px solid gray;
+    float: left;
+    width: 500px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 2px solid lightgray;
 }
